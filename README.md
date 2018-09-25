@@ -70,7 +70,15 @@ the following questions:
 
 * Given the numbers 0 through 5, what would be the worst case scenario for
 bubble sort (aka, what order would necessitate the most swaps)?
+
+```
+arr = [5, 4, 3, 2, 1]
+```
+
 * How many swaps would that worst case take?
+
+it should take 11 swaps to sort the array with the algo 
+
 * The example above took 21 iterations to get to a result. Can you tweak the
 algorithm so that it takes the same number of swaps (`7`) but fewer total operations?
 
